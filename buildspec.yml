@@ -5,16 +5,11 @@ env:
 phases:
     install:
         runtime-versions:
-            nodejs: 10
+            nodejs: 14
         commands:
             - echo Install phase empty...
     build:
         commands:
-            - npm install
-            - npm run docgen
-            - cd website
-            - echo Installing source NPM dependencies...
-            - if [ "$DEPLOY_ENV" == "production" ]; then mv sidebars.json.prod sidebars.json; fi
             - npm install
             - npm run build
 
@@ -25,4 +20,4 @@ phases:
 artifacts:
     files:
     - '**/*'
-    base-directory: 'website/build/instathings'
+    base-directory: 'build'
