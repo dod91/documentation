@@ -12,7 +12,7 @@ Get started by **signing up** on **[Honeybun](https://app.honeybun.gg)**.
 
 ## Create a new prize pool
 
-You can create a new **prize pool** by just defining its name and accepting the terms of service.
+You can create a new **prize pool** by just defining its name and accepting the terms of service .
 
 ## Configure the prize pool
 
