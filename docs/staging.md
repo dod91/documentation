@@ -1,7 +1,9 @@
 ---
 sidebar_position: 2
 ---
-# Credit card details
+# Staging
+These information are valid only on the staging environment available at https://app.stg.honeybun.gg
+## Credit card details
 
 You can use the following credit card details for completing a payment (we do not want you to become poor. Let’s stay rich):
 
@@ -9,7 +11,7 @@ You can use the following credit card details for completing a payment (we do no
 - Card expiration: 12/25
 - Card CVV: 312
 
-# Know your customer process
+## Know your customer process
 
 While for completing the KYC process please choose:
 
@@ -17,7 +19,7 @@ While for completing the KYC process please choose:
 - Type of business: Individual
 - Business url: https://honeybun.gg
 
-# Bank account
+## Bank account
 
 You can add the following US bank account:
 - Routing number: 110000000
