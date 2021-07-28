@@ -1,29 +1,21 @@
 ---
 sidebar_position: 1
 ---
+# Howdy-Doody, Welcome to Honeybun!
 
-# Quick start
+Honeybun is an easy-peasy lemon squeezy app that helps esports content creators monetize their community. Whether big or small.
 
-Let's discover **Honeybun in less than 5 minutes** as an esports content creator.
+Our platform provides esports creators three monetization strategies:
 
-## Getting Started
+- Prize Pool and Event Management
 
-Get started by **signing up** on **[Honeybun](https://app.honeybun.gg)**.
+We provide a secure way to collect and distribute money without charging users any extra fees.
 
-## Create a new prize pool
+-  Gamified and customized Loyalty Programs (in development)
 
-You can create a new **prize pool** by just defining its name and accepting the terms of service.
+Include one-time donations and Subscriptions (recurring donations).
+Both the Subscriptions and the one-time donations are combined with gamification to help incentivize people to donate or sign up for the loyalty program.
 
-## Configure the prize pool
+- Dytto the Crypto (in development)
 
-The new prize pool is now in **draft**, in this state no one can join the prize pool or donate until you start it. 
-
-Before starting the prize pool  you can configure:
-- the amount (in USD) users need to pay to join the prize pool
-- the prizes users will win at the end of the event associated at it
-- if you want to accept donations or sponsorships while the event is running
-- if you want to devolve a part of your prize pool to charity
-
-## Start the prize pool
-
-From the Settings menu item just click "Start tournament".
+We provide different ways to increase a prize pool or event funding: advertising, sponsorships, and an app called Dytto the Crypto, the friendly-crypto-miner.

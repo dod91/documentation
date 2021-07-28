@@ -8,8 +8,7 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Honeybun was designed from the ground up to be easily used to get your event up and running quickly.
       </>
     ),
   },
@@ -18,24 +17,24 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Honeybun lets you focus on your event, and we&apos;ll do the chores. Go
+        ahead and move your raise money for event.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Powered by Stripe',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        We rely on Stripe as payment processor for handling our payments.
+        Give your users the join your event by paying with credit card, Apple Pay or Google Pay in a fraction of time.
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ Svg, title, description }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
