@@ -13,7 +13,7 @@ You can use the following credit card details for completing a payment (we do no
 
 ## Know your customer process
 
-While for completing the KYC process please choose:
+While completing the KYC process please choose:
 
 - Country: USA
 - Type of business: Individual
