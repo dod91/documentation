@@ -26,12 +26,12 @@ module.exports = {
           position: 'left',
           label: 'Tutorial',
         },
-        { to: '/blog', label: 'Blog', position: 'left' },
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
-        },
+        // { to: '/blog', label: 'Blog', position: 'left' },
+        // {
+        //   href: 'https://github.com/facebook/docusaurus',
+        //   label: 'GitHub',
+        //   position: 'right',
+        // },
       ],
     },
     footer: {
