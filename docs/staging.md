@@ -1,6 +1,24 @@
 ---
 sidebar_position: 2
 ---
-# Test account
+# Credit card details
 
-test
+You can use the following credit card details for completing a payment (we do not want you to become poor. Let’s stay rich):
+
+- Card number: 4242 4242 4242 4242
+- Card expiration: 12/25
+- Card CVV: 312
+
+# Know your customer process
+
+While for completing the KYC process please choose:
+
+- Country: USA
+- Type of business: Individual
+- Business url: https://honeybun.gg
+
+# Bank account
+
+You can add the following US bank account:
+- Routing number: 110000000
+- Account number: 000999999991
