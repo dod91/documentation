@@ -98,4 +98,27 @@ module.exports = {
       },
     ],
   ],
+  presets: [
+    [
+      '@docusaurus/preset-classic',
+      {
+        // Debug defaults to true in dev, false in prod
+        debug: undefined,
+        // Will be passed to @docusaurus/theme-classic.
+        theme: {
+          customCss: [require.resolve('./src/css/custom.css')],
+        },
+        // Will be passed to @docusaurus/plugin-content-docs (false to disable)
+        docs: {
+          editCurrentVersion: true,
+        },
+        // Will be passed to @docusaurus/plugin-content-blog (false to disable)
+        blog: {},
+        // Will be passed to @docusaurus/plugin-content-pages (false to disable)
+        pages: {},
+        // Will be passed to @docusaurus/plugin-content-sitemap (false to disable)
+        sitemap: {},
+      },
+    ],
+  ],
 };
