@@ -47,37 +47,29 @@ module.exports = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Applications',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'App',
+              href: 'https://app.honeybun.gg',
             },
           ],
         },
         {
           title: 'More',
           items: [
-            // {
-            //   label: 'Blog',
-            //   to: '/blog',
-            // },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'Blog',
+              href: 'https://www.tournaments-organizers.com/blog/',
             },
+            //     {
+            //       label: 'GitHub',
+            //       href: 'https://github.com/facebook/docusaurus',
+            //     },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Honeybun.`,
     },
     prism: {
       theme: lightCodeTheme,
