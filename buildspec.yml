@@ -13,6 +13,7 @@ phases:
             - npm install
             - if [ "$DEPLOY_ENV" = 'production' ]; then rm docs/staging.md; fi
             - npm run build
+            - aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_ID --paths /docs/*
 
 # Include only the files required for your application to run.
 # Do not use recursively include artifacts from node_modules directory as it will include unnecessary packages
