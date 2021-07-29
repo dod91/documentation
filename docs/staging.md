@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 100
 ---
 # Staging
 These information are valid only on the staging environment available at `https://app.stg.honeybun.gg`
