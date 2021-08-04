@@ -23,4 +23,4 @@ While completing the KYC process please choose:
 
 You can add the following US bank account:
 - Routing number: `110000000`
-- Account number: `000999999991`
+- Account number: `000123456789`
